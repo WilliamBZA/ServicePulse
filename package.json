@@ -3,6 +3,7 @@
   "version": "3.0.0",
   "description": "The monitoring module",
   "main": "src/ServicePulse.Host/app/modules/dist/monitoring.dist.js",
+  "files": ["src/ServicePulse.Host/app/modules/dist/monitoring.dist.js"],
   "author": "Particular Software",
   "license": "RPL-1.5"
 }
