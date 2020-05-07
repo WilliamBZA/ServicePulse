@@ -15,4 +15,7 @@ ServicePulse.Host/app/bower_components
 _Chutzpah.*/	
 
 # Webpack results	
-ServicePulse.Host/app/modules/dist/
+ServicePulse.Host/app/modules/dist/configuration.dist.js
+ServicePulse.Host/app/modules/dist/shell.dist.js
+ServicePulse.Host/app/modules/dist/vendor.css
+ServicePulse.Host/app/modules/dist/89889688147bd7575d6327160d64e760.svg
